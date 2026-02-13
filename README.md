@@ -1,1 +1,1 @@
-# algorithm-class-Wednesday
+# software algorithm-class
